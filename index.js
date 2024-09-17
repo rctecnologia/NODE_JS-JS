@@ -1,7 +1,7 @@
 const { select, input } = require('@inquirer/prompts')
 
 let meta = {
-    value: "meta 1",
+    value: "Ligar para a Claro",
     checked: false
 }
 
